@@ -1,0 +1,28 @@
+{
+  "name": "Bill",
+  "surname": "Gates",
+  "age": 65,
+  "gender": "male",
+  "address": {
+    "city": "Seattle",
+    "street": "Microsoft Way",
+    "house_number": 1
+  },
+  "subjects": ["Computer Science", "Economics", "Public Health"],
+  "average_grade": 4.0,
+  "courses_passed": true,
+  "exam_results": {
+    "Computer Science": "A",
+    "Economics": "B+",
+    "Public Health": "A-"
+  },
+  "club_memberships": ["Chess Club", "Debating Society"],
+  "extracurricular_activities": {
+    "programming_contests": true,
+    "volunteering": true
+  },
+  "additional_info": {
+    "hobbies": ["Reading", "Playing Bridge"],
+    "languages": ["English", "Spanish"]
+  }
+}
