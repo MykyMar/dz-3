@@ -1,0 +1,41 @@
+<student>
+  <name>Bill</name>
+  <surname>Gates</surname>
+  <age>65</age>
+  <gender>male</gender>
+  <address>
+    <city>Seattle</city>
+    <street>Microsoft Way</street>
+    <house_number>1</house_number>
+  </address>
+  <subjects>
+    <subject>Computer Science</subject>
+    <subject>Economics</subject>
+    <subject>Public Health</subject>
+  </subjects>
+  <average_grade>4.0</average_grade>
+  <courses_passed>true</courses_passed>
+  <exam_results>
+    <Computer_Science>A</Computer_Science>
+    <Economics>B+</Economics>
+    <Public_Health>A-</Public_Health>
+  </exam_results>
+  <club_memberships>
+    <membership>Chess Club</membership>
+    <membership>Debating Society</membership>
+  </club_memberships>
+  <extracurricular_activities>
+    <programming_contests>true</programming_contests>
+    <volunteering>true</volunteering>
+  </extracurricular_activities>
+  <additional_info>
+    <hobbies>
+      <hobby>Reading</hobby>
+      <hobby>Playing Bridge</hobby>
+    </hobbies>
+    <languages>
+      <language>English</language>
+      <language>Spanish</language>
+    </languages>
+  </additional_info>
+</student>
